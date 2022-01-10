@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXIugpYCLbHKIpnqsjSbvkqtcVBJ+pp2Sn89banW1LQ0YIYGejVb/uCz96Dupn7aWxynMox7wfRpWab+GUVGxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SERCAERF\\source\\repos\\ShopsRUs\\ShopsRUs.Domain\\ShopsRUs.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERCAERF\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
+    "C:\\Users\\SERCAERF\\.nuget\\packages\\mediatr\\10.0.0\\mediatr.10.0.0.nupkg.sha512",
+    "C:\\Users\\SERCAERF\\.nuget\\packages\\mediatr.contracts\\1.0.0\\mediatr.contracts.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
